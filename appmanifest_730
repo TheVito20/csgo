@@ -1,0 +1,40 @@
+"AppState"
+{
+	"appid"		"730"
+	"Universe"		"1"
+	"name"		"Counter-Strike: Global Offensive"
+	"StateFlags"		"4"
+	"installdir"		"Counter-Strike Global Offensive"
+	"LastUpdated"		"1607774390"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"26242619273"
+	"buildid"		"5957466"
+	"LastOwner"		"76561198296118125"
+	"BytesToDownload"		"8493392"
+	"BytesDownloaded"		"8493392"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"732"
+		{
+			"manifest"		"5884634791596648922"
+			"size"		"365192475"
+		}
+		"731"
+		{
+			"manifest"		"4287852635015832842"
+			"size"		"25877426798"
+		}
+		"735"
+		{
+			"manifest"		"3867231304834558645"
+			"size"		"0"
+		}
+	}
+	"UserConfig"
+	{
+		"language"		"turkish"
+	}
+}
